@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 // git revert HEAD --no-edit (!!!)
+=======
+123456789
+>>>>>>> parent of 099f207... last commit
